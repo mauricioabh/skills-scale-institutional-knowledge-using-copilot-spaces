@@ -1,5 +1,7 @@
 # OctoAcme — Project Planning
 
+**Implements**: #4
+
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
@@ -41,3 +43,31 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+---
+
+## Key Roles in Planning
+
+Effective project planning requires collaboration across multiple roles. See [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) for detailed responsibilities.
+
+**Primary Roles**:
+- **Project Manager**: Leads planning, manages timeline and resources
+- **Product Manager**: Defines requirements and prioritizes backlog
+- **QA Lead**: Reviews acceptance criteria and creates test plan (see [QA Testing Guidelines](qa-testing-guidelines.md))
+- **Release Manager**: Coordinates release planning and deployment windows (see [Release Checklist](release-checklist.md))
+- **Risk Owner**: Identifies and tracks risks (see [Risk Owner Template](risk-owner-template.md))
+
+**Supporting Roles**:
+- **Engineers**: Provide estimates and identify technical dependencies
+- **Project Sponsor**: Approves scope, timeline, and resource allocation
+- **Communications Coordinator**: Plans stakeholder communication (see [Communications Checklist](communications-checklist.md))
+
+---
+
+## Related Process Documents
+
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) - Role definitions and responsibilities
+- [Release Checklist](release-checklist.md) - Release readiness verification
+- [Risk Owner Template](risk-owner-template.md) - Risk identification and tracking
+- [QA Testing Guidelines](qa-testing-guidelines.md) - Test planning and acceptance criteria
+- [Communications Checklist](communications-checklist.md) - Stakeholder communication planning
